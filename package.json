@@ -1,0 +1,17 @@
+{
+  "name": "courses-platform-integration-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.13.2",
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}

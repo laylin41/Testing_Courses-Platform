@@ -1,0 +1,12 @@
+{
+  "apiUrl": "http://localhost:5001",
+  "projectPath": "D:\\CSharpProjects\\courses-platform\\courses-platform.csproj",
+  "dotnetRunArgs": "--urls http://localhost:5001",
+  "startupDelayMs": 5000,
+  "providers": [
+    "sqlserver",
+    "postgresql",
+    "sqlite",
+    "inmemory"
+  ]
+}
